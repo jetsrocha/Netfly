@@ -128,3 +128,8 @@ nav input{
 .carrosel-filmes{
     margin-top: 5px;
 }
+
+.owl-carousel .owl-item img:hover{
+    width: 105%;
+    transition: .3s;
+}
